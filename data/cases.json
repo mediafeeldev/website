@@ -470,7 +470,7 @@
       "id": "case-017",
       "title": "아기고래 구출대작전",
       "category": ["3d", "4d"],
-      "year": 1234,
+      "year": 2003,
       "location": "",
       "client": "",
       "description": "아주 깊은 바다, 대왕 오징어 여왕은 부하들에게 아기 고래를 납치하라고 지시한다. 납치당한 아기 고래를 구하려는 엄마 고래와 심해 바다 3총사와의 모험!",
@@ -491,7 +491,7 @@
       "id": "case-018",
       "title": "은하탐험 에스페란스",
       "category": ["3d", "4d"],
-      "year": 1234,
+      "year": 2000,
       "location": "",
       "client": "",
       "description": "은하를 표류하는 행성 파편에 파괴된 플론 행성을 탈출하는 바너드 박사 새로운 행성을 찾아서 포라와 함께 에스페란스호에 몸을 싣고 우주를 여행한다",
@@ -543,6 +543,78 @@
       ],
       "details": {
         "duration": "x개월",
+        "scope": "",
+        "technology": "",
+        "features": [
+        ]
+      },
+      "tags": []
+    },
+    {
+      "id": "case-021",
+      "title": "공연",
+      "category": ["4d"],
+      "year": 2025,
+      "location": " 위치",
+      "client": "클라이언트",
+      "description": "설명",
+      "thumbnail": "./assets/img/더미이미지 (4).JPG",
+      "images": [
+        "./assets/img/더미이미지 (1).JPG",
+        "./assets/img/더미이미지 (2).JPG",
+        "./assets/img/더미이미지 (3).JPG",
+        "./assets/img/더미이미지 (4).JPG"
+      ],
+      "details": {
+        "duration": "5개월",
+        "scope": "",
+        "technology": "",
+        "features": [
+        ]
+      },
+      "tags": []
+    },
+    {
+      "id": "case-021",
+      "title": "공연",
+      "category": ["interactive"],
+      "year": 2025,
+      "location": " 위치",
+      "client": "클라이언트",
+      "description": "설명",
+      "thumbnail": "./assets/img/더미이미지 (4).JPG",
+      "images": [
+        "./assets/img/더미이미지 (1).JPG",
+        "./assets/img/더미이미지 (2).JPG",
+        "./assets/img/더미이미지 (3).JPG",
+        "./assets/img/더미이미지 (4).JPG"
+      ],
+      "details": {
+        "duration": "5개월",
+        "scope": "",
+        "technology": "",
+        "features": [
+        ]
+      },
+      "tags": []
+    },
+    {
+      "id": "case-021",
+      "title": "공연",
+      "category": ["interactive"],
+      "year": 2026,
+      "location": " 위치",
+      "client": "클라이언트",
+      "description": "설명",
+      "thumbnail": "./assets/img/더미이미지 (4).JPG",
+      "images": [
+        "./assets/img/더미이미지 (1).JPG",
+        "./assets/img/더미이미지 (2).JPG",
+        "./assets/img/더미이미지 (3).JPG",
+        "./assets/img/더미이미지 (4).JPG"
+      ],
+      "details": {
+        "duration": "5개월",
         "scope": "",
         "technology": "",
         "features": [
