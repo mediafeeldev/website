@@ -1,5 +1,5 @@
 // ============================================
-// MEDIA FEEL - Main JavaScript
+// MEDIA-ISM - Main JavaScript
 // SPA Router & State Management
 // ============================================
 

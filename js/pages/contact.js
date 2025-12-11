@@ -45,14 +45,6 @@ export async function renderContactPage() {
                                 </div>
                             </div>
 
-                            <div class="contact-info-item">
-                                <div class="contact-icon">${getIcon('user', 32)}</div>
-                                <div class="contact-details">
-                                    <h4>대표자</h4>
-                                    <p>${company?.ceo || ''}</p>
-                                </div>
-                            </div>
-
                             ${contactData?.businessHours ? `
                                 <div class="contact-info-item">
                                     <div class="contact-icon">${getIcon('clock', 32)}</div>
@@ -68,7 +60,7 @@ export async function renderContactPage() {
                         <!-- Download Brochure -->
                         <div class="card download-card">
                             <h3>회사소개서 다운로드</h3>
-                            <p>MEDIA FEEL의 자세한 정보를 확인하세요</p>
+                            <p>MEDIA-ISM의 자세한 정보를 확인하세요</p>
                             <a href="./assets/pdf/(주)미디어즘 회사 소개서.pdf" class="btn btn-secondary" download>
                                 <span class="btn-icon">${getIcon('download', 20)}</span>
                                 PDF 다운로드

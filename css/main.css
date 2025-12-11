@@ -1,5 +1,5 @@
 /* ============================================
-   MEDIA FEEL - Main Stylesheet
+   MEDIA-ISM - Main Stylesheet
    Dark & Minimal Design System
    ============================================ */
 
@@ -178,6 +178,14 @@ a:hover {
     font-weight: 700;
     color: var(--color-text-light);
     text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+.logo-img {
+    height: 40px;
+    width: auto;
+    object-fit: contain;
 }
 
 .logo-text {
@@ -254,6 +262,18 @@ a:hover {
 .footer-section h4 {
     color: var(--color-text-light);
     margin-bottom: var(--spacing-sm);
+}
+
+.footer-logo {
+    display: flex;
+    align-items: center;
+    margin-bottom: var(--spacing-sm);
+}
+
+.footer-logo-img {
+    height: 32px;
+    width: auto;
+    object-fit: contain;
 }
 
 .footer-title {

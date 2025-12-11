@@ -11,7 +11,7 @@ export async function renderAboutPage() {
                 <!-- Page Header -->
                 <div class="page-header">
                     <h1 class="page-title">회사소개</h1>
-                    <p class="page-subtitle">${companyData?.brandName || 'MEDIA FEEL'}</p>
+                    <p class="page-subtitle">${companyData?.brandName || 'MEDIA-ISM'}</p>
                     <button class="btn btn-outline" onclick="openAboutPdfModal()" style="margin-top: var(--spacing-md);">
                         ${getIcon('download', 20)} 회사소개서 다운로드
                     </button>

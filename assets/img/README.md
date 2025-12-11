@@ -5,7 +5,7 @@
 ## 필요한 이미지
 
 ### 로고
-- `logo.png` 또는 `logo.svg` - MEDIA FEEL 로고
+- `logo.png` 또는 `logo.svg` - MEDIA-ISM 로고
 
 ### 사례 이미지
 사례 데이터에 맞춰 다음과 같은 이미지를 추가하세요:

@@ -42,7 +42,7 @@ git remote add origin https://github.com/YOUR_USERNAME/mediafeel.git
 git add .
 
 # 커밋
-git commit -m "Initial commit: MEDIA FEEL website"
+git commit -m "Initial commit: MEDIA-ISM website"
 
 # 푸시
 git push -u origin main
@@ -143,7 +143,7 @@ http://localhost:8000
 
 `index.html`에 추가 메타 태그:
 ```html
-<meta property="og:title" content="MEDIA FEEL - (주)미디어즘">
+<meta property="og:title" content="MEDIA-ISM - (주)미디어즘">
 <meta property="og:description" content="원스톱 맞춤 설계 시뮬레이터 & 멀티미디어 솔루션">
 <meta property="og:image" content="./assets/img/og-image.jpg">
 <meta property="og:url" content="https://yourdomain.com">
