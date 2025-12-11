@@ -74,7 +74,7 @@ export async function renderContactPage() {
                             <h2>찾아오시는 길</h2>
                             <div class="map-container">
                                 <iframe 
-                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1584.8381619095867!2d126.90791613888601!3d37.397486223879596!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b612a9c7b95bd%3A0x6d4d35c6ee513616!2z6rK96riw64-EIOyViOyWkeyLnCDrp4zslYjqtawg7JaR7ZmU66GcNzHrsojquLggMzc!5e0!3m2!1sko!2skr!4v1765419656110!5m2!1sko!2skr"
+                                    src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d324.5734901369787!2d126.91047858254673!3d37.3997451458467!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sko!2skr!4v1765426393871!5m2!1sko!2skr"
                                     width="100%" 
                                     height="400" 
                                     style="border:0;" 
