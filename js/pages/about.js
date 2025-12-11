@@ -104,10 +104,6 @@ export async function renderAboutPage() {
                                 <span class="info-value">${companyData?.brandName || ''}</span>
                             </div>
                             <div class="info-item">
-                                <span class="info-label">대표자</span>
-                                <span class="info-value">${companyData?.ceo || ''}</span>
-                            </div>
-                            <div class="info-item">
                                 <span class="info-label">설립연도</span>
                                 <span class="info-value">${companyData?.established || ''}</span>
                             </div>
